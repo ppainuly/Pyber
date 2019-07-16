@@ -11,5 +11,19 @@ The first part of this project takes data for cities and drivers into a datafram
 
 ![Pyber Ride Sharing Bubble Plot](PyberRideSharingData.png)
 
+The second part focusses of creating Pie charts to give insight into the following - 
+
+      % of Total Fares by City Type
+      % of Total Rides by City Type
+      % of Total Drivers by City Type
+
+ 
+   ![ % of Total Fares by City Type](TotalFaresByCity.png)
+ 
+   ![ % of Total Rides by City Type](TotalRidesByCity.png)
+  
+   ![ % of Total Drivers by City Type](TotalDriversByCity.png)
+
+
 
 
