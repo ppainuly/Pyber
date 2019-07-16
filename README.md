@@ -10,7 +10,6 @@ The first part of this project takes data for cities and drivers into a datafram
     * City Type (Urban, Suburban, Rural)
 
 ![Pyber Ride Sharing Bubble Plot](PyberRideSharingData.png)
-Format: ![Pyber Ride Sharing Bubble Plot
 
 
 
